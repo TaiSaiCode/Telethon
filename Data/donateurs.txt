@@ -1,0 +1,3 @@
+0;Bruno;Théoret;bruno@mail.com;5148219086;Master Card;5614920182936473;Janvier;2025;444;997099
+1;Tom;Tran;tom@mail.com;5147628393;Visa;4569030462739485;Mars;2025;333;500
+2;Hinde;Anoual;anoual@hotmail.com;5161872276;American Express;6660000000000000;Septembre;2020;666;200000

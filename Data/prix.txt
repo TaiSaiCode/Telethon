@@ -1,0 +1,4 @@
+0;0;Televiseur;2;1
+1;1;Repas pour Deux;1;30
+2;0;BBQ;2;5
+3;1;Calendrier;1;99
